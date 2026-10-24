@@ -1,0 +1,14 @@
+# Original local source spreadsheets are not bundled
+/data/*.xlsx
+/data/*.xls
+/data/*.csv
+
+# Local Stata outputs and temporary files
+*.dta
+*.log
+*.smcl
+*.stswp
+
+# Operating-system files
+.DS_Store
+Thumbs.db
